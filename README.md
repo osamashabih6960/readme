@@ -19,8 +19,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGPZYTw4wM/yl6iQnRT-9H2IpgX65U5kw/view?utm_content=DAGPZYTw4wM&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGPZYTw4wM/yl6iQnRT-9H2IpgX65U5kw/view?utm_content=DAGPZYTw4wM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Let's build something together! 💻</h3><p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/avin-raj-203a762a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avin-raj-203a762a2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avin-raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avin-raj_" height="30" width="40" /></a>
 <a href="https://discord.gg/cxPVXXvK" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="discord" height="30" width="40" /></a>
