@@ -46,8 +46,60 @@
 | **🚀 Production** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" /> `DVC`, `Redis` |
 | **💻 Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> |
 
-MLOps, Backend & Cloud
-<p align="left"> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> </p>
+# 🏗️ MLOps & Cloud Engineering Specialist
+
+<h3 align="left">Architecting Production-Ready AI Ecosystems</h3>
+
+I bridge the gap between Data Science and Software Engineering by implementing robust **MLOps** practices. My focus is on creating reproducible, scalable, and automated pipelines that transform experimental models into reliable production services.
+
+---
+
+### 🔄 End-to-End MLOps Pipeline
+
+#### **1. Orchestration & Workflow Management**
+* **Workflow Engines:** Orchestrating complex ML DAGs using **Apache Airflow** and **Kubeflow** for seamless data-to-model transitions.
+* **Metadata & Lineage:** Using **ZenML** to create framework-agnostic pipelines and track data/model lineage.
+* **Data Versioning:** Implementing **DVC** with **YAML** configurations to ensure 100% reproducibility of datasets and experiments.
+
+#### **2. Containerization & Orchestration**
+* **Docker:** Containerizing ML environments to eliminate "it works on my machine" issues.
+* **Kubernetes (K8s):** Managing distributed clusters for high-availability model serving and resource scaling.
+* **Serverless AI:** Deploying lightweight models using **AWS Lambda** for cost-efficient, event-driven inference.
+
+#### **3. CI/CD & GitOps**
+* **GitOps Mastery:** Using **ArgoCD** for declarative continuous deployment on Kubernetes.
+* **Automation:** Building **GitHub Actions** pipelines for automated linting, testing, and container pushing.
+* **Version Control:** Expert use of **Git & GitHub** for collaborative development and code branching strategies.
+
+#### **4. Cloud, Monitoring & Observability**
+* **Cloud Infrastructure:** Architecting scalable environments on **AWS** (EC2, S3, EKS).
+* **Observability:** Real-time system health tracking using **Prometheus** for metrics and **Grafana** for advanced visual dashboards.
+* **REST APIs:** Developing high-performance, asynchronous interfaces with **FastAPI**.
+
+---
+
+### 🛠️ The MLOps Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Orchestration** | <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" /> <img src="https://img.shields.io/badge/Kubeflow-4285F4?style=flat&logo=kubeflow&logoColor=white" /> <img src="https://img.shields.io/badge/ZenML-7B42BC?style=flat" /> |
+| **Infrastructure** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> |
+| **Deployment** | <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> `Serverless` |
+| **Monitoring** | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" /> |
+| **Versioning** | `DVC`, `YAML`, `Git/GitHub`, `MLflow` |
+
+---
+
+### 🚀 Advanced Deployment Strategies
+I implement and manage industry-standard deployment patterns to ensure zero downtime and model reliability:
+* **Blue-Green Deployment** (Instant switch)
+* **Canary Deployment** (Incremental traffic)
+* **A/B Testing** (Statistical comparison)
+* **Shadow Deployment** (Real-world testing without impact)
+* **Recreate Strategy** | **Rolling Updates** | **Multi-Region Deployment** | **Serverless Scaling**
+
+---
+ 
 
 GenAI & Specialized Tools
 <p align="left"> <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow" height="35"/> <img src="https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue" height="35"/> <img src="https://img.shields.io/badge/DVC-Data%20Versioning-orange" height="35"/> <img src="https://img.shields.io/badge/GenAI-LLM%20Research-blueviolet" height="35"/> </p>
