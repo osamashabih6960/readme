@@ -1,20 +1,21 @@
 [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://Avinraj01.io)
 
-<h1 align="center">What's Upp Dev..My Self Osama Shabih</h1>
-<h3 align="center">A fervent frontend developer from India, crafting stunning web experiences with flair and creativity.</h3>
+<h1 align="center">Hi 👋, I'm Osama Shabih</h1>
+<h2 align="center">AI/ML Engineer | DL • CV • NLP • Gen-AI | MLOps & FastAPI Developer</h2>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinraj01&label=Profile%20views&color=0e75b6&style=flat" alt="avinraj01" /> </p>
 
-- 🔭 I’m currently honing skills in **DSA with C++ while mastering CSS and JavaScript for captivating web experiences.**
+- 🔭 AI/ML Engineer with hands-on experience in Deep Learning, Computer Vision, NLP, and Generative AI. Skilled in building and deploying machine learning solutions using MLOps practices and FastAPI. Strong problem-solving abilities, continuously enhanced through DSA in Python and real-world AI projects**
 
-- 🌱 I’m currently learning **Angular.Js**
+- 🌱 I’m currently learning **Gen-AI**
 
-- 👯 I’m looking to collaborate on **Hack-A-Thons**
+- 👯 - 👯 Looking to collaborate on AI/ML **projects**, **research-work**, and **Hack-A-Thons**.
 
-- 💬 Ask me about **Front-End design, UI-UX, CP**
+- 💬 - 💬 Ask me about **AI/ML, Deep Learning, NLP, Computer Vision, Gen-AI, and MLOps**.
 
-- 📫 How to reach me **osamashabih.jamia@gmail.com**
+- 📫 How to reach me **OsamaShabih@st.jamiahamdard.ac.in**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGPZYTw4wM/yl6iQnRT-9H2IpgX65U5kw/view?utm_content=DAGPZYTw4wM&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGPZYTw4wM/yl6iQnRT-9H2IpgX65U5kw/view?utm_content=DAGPZYTw4wM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
