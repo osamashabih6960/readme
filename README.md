@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **OsamaShabih@st.jamiahamdard.ac.in**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGPZYTw4wM/yl6iQnRT-9H2IpgX65U5kw/view?utm_content=DAGPZYTw4wM&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGPZYTw4wM/yl6iQnRT-9H2IpgX65U5kw/view?utm_content=DAGPZYTw4wM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d46vvNGxWNr2mmUQhBpRVHfVpNQuHjeQ/view?usp=drive_link](https://www.canva.com/design/DAGPZYTw4wM/yl6iQnRT-9H2IpgX65U5kw/view?utm_content=DAGPZYTw4wM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h3 align="left">Let's build something together! 💻</h3>
 <p align="left">
