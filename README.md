@@ -19,7 +19,8 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGPZYTw4wM/yl6iQnRT-9H2IpgX65U5kw/view?utm_content=DAGPZYTw4wM&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGPZYTw4wM/yl6iQnRT-9H2IpgX65U5kw/view?utm_content=DAGPZYTw4wM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-<h3 align="left">Let's build something together! 💻</h3><p align="left">
+<h3 align="left">Let's build something together! 💻</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/osama-shabih-0b922b28a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/osama-shabih-0b922b28a" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/OSAMASHABIH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Osama Shabih" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="discord" height="30" width="40" /></a>
@@ -31,20 +32,63 @@
 </p>
 
 <h3 align="left">Tech Stack I Vibe With ⚡</h3>
-<Learning aligh='left'> 📊 Data Science & Machine Learning </h4>
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="30"/> </p>
-<p align="left"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/XGBoost-Models-green?style=for-the-badge" height="30"/> <img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=for-the-badge" height="30"/> <img src="https://img.shields.io/badge/spaCy-NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" height="30"/> </p>
-<p align="left"> <img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge" height="30"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/YAML-JSON-grey?style=for-the-badge" height="30"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="30"/> </p>
+<h3 align="left">📊 Data Science & Machine Learning Specialist</h3>
 
-### 🛠️ The Deep Learning Stack
+#### **🛠️ Core Foundations & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stats-Probability-blueviolet?style=for-the-badge" />
+</p>
+
+
+
+#### **🤖 Advanced Modeling & AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-CatBoost-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/H2O.ai-ML-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-NLP-yellow?style=for-the-badge&logo=huggingface" />
+</p>
+
+#### **🗄️ Data Engineering & Automation**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beautiful_Soup-Scraping-013243?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Server_Ops-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 🧠 In-Depth Deep Learning & Neural Engineering Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Deep_Learning_Researcher-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Computer_Vision_&_NLP-success?style=for-the-badge" />
+</p>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **🧠 Frameworks** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-00BFFF?style=flat&logo=google&logoColor=white" /> |
-| **👁️ Vision** | `OpenCV`, `CNN`, `Image Segmentation`, `Object Detection`, `YOLO` |
-| **🔤 NLP** | `Hugging Face`, `spaCy`, `Transformers`, `NLTK`, `LLMs` |
-| **🚀 Production** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" /> `DVC`, `Redis` |
-| **💻 Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> |
+| **🚀 Neural Frameworks** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-00BFFF?style=flat-square&logo=google&logoColor=white" /> |
+| **👁️ Computer Vision** | `YOLO (v8/v10)`, `CNN Architectures`, `Image Segmentation`, `Object Tracking`, `OpenCV`, `Face Recognition` |
+| **🔤 Natural Language** | <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow" /> `LLMs`, `Fine-tuning`, `spaCy`, `NLTK`, `BERT`, `GPT-based Models` |
+| **⚡ Production & Scale** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
+| **💻 Core Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> |
+
+---
+
+### 🔬 Technical Specialization
+* **Neural Design:** Custom CNN layers development, Weight initialization strategies, and Hyperparameter tuning.
+* **Spatial Tracking:** Real-time 3D landmark detection and coordinate mapping (Hand/Face/Body).
+* **Optimization:** Model Quantization and Pruning for edge deployment.
+* **Data Engineering:** Designing automated data pipelines using **Selenium** and **BeautifulSoup** for training custom models.
 
 # 🏗️ MLOps & Cloud Engineering Specialist
 
